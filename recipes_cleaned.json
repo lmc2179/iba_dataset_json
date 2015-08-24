@@ -1,0 +1,1588 @@
+[
+  {
+    "name": "ALEXANDER",
+    "ingredients": [
+      {
+        "name": "cognac",
+        "quantity": 3.0
+      },
+      {
+        "name": "creme de cacao",
+        "quantity": 3.0
+      },
+      {
+        "name": "cream",
+        "quantity": 3.0
+      }
+    ],
+    "type": "After Dinner Cocktail"
+  },
+  {
+    "name": "AMERICANO",
+    "ingredients": [
+      {
+        "name": "campari",
+        "quantity": 3.0
+      },
+      {
+        "name": "red vermouth",
+        "quantity": 3.0
+      },
+      {
+        "name": "soda water",
+        "quantity": 0.739338239
+      }
+    ],
+    "type": "Before Dinner Cocktail"
+  },
+  {
+    "name": "ANGEL FACE",
+    "ingredients": [
+      {
+        "name": "gin",
+        "quantity": 3.0
+      },
+      {
+        "name": "apricot brandy",
+        "quantity": 3.0
+      },
+      {
+        "name": "calvados",
+        "quantity": 3.0
+      }
+    ],
+    "type": "All Day Cocktail"
+  },
+  {
+    "name": "AVIATION",
+    "ingredients": [
+      {
+        "name": "gin",
+        "quantity": 4.5
+      },
+      {
+        "name": "maraschino",
+        "quantity": 1.5
+      },
+      {
+        "name": "lemon juice",
+        "quantity": 1.5
+      }
+    ],
+    "type": "All Day Cocktail"
+  },
+  {
+    "name": "BACARDI",
+    "ingredients": [
+      {
+        "name": "white rum",
+        "quantity": 4.5
+      },
+      {
+        "name": "lime juice",
+        "quantity": 2.0
+      },
+      {
+        "name": "grenadine",
+        "quantity": 1.0
+      }
+    ],
+    "type": "Before Dinner Cocktail"
+  },
+  {
+    "name": "BETWEEN THE SHEETS",
+    "ingredients": [
+      {
+        "name": "white rum",
+        "quantity": 3.0
+      },
+      {
+        "name": "cognac",
+        "quantity": 3.0
+      },
+      {
+        "name": "triple sec",
+        "quantity": 3.0
+      },
+      {
+        "name": "lemon juice",
+        "quantity": 2.0
+      }
+    ],
+    "type": "All Day Cocktail"
+  },
+  {
+    "name": "CASINO",
+    "ingredients": [
+      {
+        "name": "old tom gin",
+        "quantity": 4.0
+      },
+      {
+        "name": "maraschino",
+        "quantity": 1.0
+      },
+      {
+        "name": "orange bitters",
+        "quantity": 1.0
+      },
+      {
+        "name": "lemon juice",
+        "quantity": 1.0
+      }
+    ],
+    "type": "All Day Cocktail"
+  },
+  {
+    "name": "CLOVER CLUB",
+    "ingredients": [
+      {
+        "name": "gin",
+        "quantity": 4.5
+      },
+      {
+        "name": "raspberry syrup",
+        "quantity": 1.5
+      },
+      {
+        "name": "lemon juice",
+        "quantity": 1.5
+      },
+      {
+        "name": "egg white",
+        "quantity": 0.15402879975
+      }
+    ],
+    "type": "All Day Cocktail"
+  },
+  {
+    "name": "DAIQUIRI",
+    "ingredients": [
+      {
+        "name": "white rum",
+        "quantity": 4.5
+      },
+      {
+        "name": "lime juice",
+        "quantity": 2.5
+      },
+      {
+        "name": "simple syrup",
+        "quantity": 1.5
+      }
+    ],
+    "type": "Before Dinner Cocktail"
+  },
+  {
+    "name": "DERBY",
+    "ingredients": [
+      {
+        "name": "gin",
+        "quantity": 6.0
+      },
+      {
+        "name": "peach bitters",
+        "quantity": 0.1232230398
+      },
+      {
+        "name": "2  mint leafs",
+        "quantity": null
+      }
+    ],
+    "type": "All Day Cocktail"
+  },
+  {
+    "name": "DRY MARTINI",
+    "ingredients": [
+      {
+        "name": "gin",
+        "quantity": 6.0
+      },
+      {
+        "name": "dry vermouth",
+        "quantity": 1.0
+      }
+    ],
+    "type": "Before Dinner Cocktail"
+  },
+  {
+    "name": "GIN FIZZ",
+    "ingredients": [
+      {
+        "name": "gin",
+        "quantity": 4.5
+      },
+      {
+        "name": "lemon juice",
+        "quantity": 3.0
+      },
+      {
+        "name": "sugar syrup",
+        "quantity": 1.0
+      },
+      {
+        "name": "soda water",
+        "quantity": 8.0
+      }
+    ],
+    "type": "Longdrink"
+  },
+  {
+    "name": "JOHN COLLINS",
+    "ingredients": [
+      {
+        "name": "gin",
+        "quantity": 4.5
+      },
+      {
+        "name": "lemon juice",
+        "quantity": 3.0
+      },
+      {
+        "name": "sugar syrup",
+        "quantity": 1.5
+      },
+      {
+        "name": "soda water",
+        "quantity": 6.0
+      }
+    ],
+    "type": "Longdrink"
+  },
+  {
+    "name": "MANHATTAN",
+    "ingredients": [
+      {
+        "name": "rye whiskey",
+        "quantity": 5.0
+      },
+      {
+        "name": "red vermouth",
+        "quantity": 2.0
+      },
+      {
+        "name": "angostura bitters",
+        "quantity": 0.0616115199
+      }
+    ],
+    "type": "Before Dinner cocktail"
+  },
+  {
+    "name": "MARY PICKFORD",
+    "ingredients": [
+      {
+        "name": "white rum",
+        "quantity": 6.0
+      },
+      {
+        "name": "maraschino",
+        "quantity": 1.0
+      },
+      {
+        "name": "pineapple juice",
+        "quantity": 6.0
+      },
+      {
+        "name": "grenadine syrup",
+        "quantity": 1.0
+      }
+    ],
+    "type": "All Day Cocktail"
+  },
+  {
+    "name": "MONKEY GLAND",
+    "ingredients": [
+      {
+        "name": "gin",
+        "quantity": 5.0
+      },
+      {
+        "name": "orange juice",
+        "quantity": 3.0
+      },
+      {
+        "name": "absinth",
+        "quantity": 0.1232230398
+      },
+      {
+        "name": "grenadine",
+        "quantity": 0.1232230398
+      }
+    ],
+    "type": "All Day Cocktail"
+  },
+  {
+    "name": "NEGRONI",
+    "ingredients": [
+      {
+        "name": "gin",
+        "quantity": 3.0
+      },
+      {
+        "name": "campari",
+        "quantity": 3.0
+      },
+      {
+        "name": "red vermouth",
+        "quantity": 3.0
+      }
+    ],
+    "type": "Before Dinner Cocktail"
+  },
+  {
+    "name": "OLD FASHIONED",
+    "ingredients": [
+      {
+        "name": "bourbon or rye whiskey",
+        "quantity": 4.5
+      },
+      {
+        "name": "angostura bitters",
+        "quantity": 0.1232230398
+      },
+      {
+        "name": "1 sugar cube",
+        "quantity": null
+      },
+      {
+        "name": "plain water",
+        "quantity": 0.15402879975
+      }
+    ],
+    "type": "Before Dinner Cocktail"
+  },
+  {
+    "name": "PARADISE",
+    "ingredients": [
+      {
+        "name": "gin",
+        "quantity": 3.5
+      },
+      {
+        "name": "apricot brandy",
+        "quantity": 2.0
+      },
+      {
+        "name": "orange juice",
+        "quantity": 1.5
+      }
+    ],
+    "type": "All Day Cocktail"
+  },
+  {
+    "name": "PLANTER'S PUNCH",
+    "ingredients": [
+      {
+        "name": "dark rum",
+        "quantity": 4.5
+      },
+      {
+        "name": "orange juice",
+        "quantity": 3.5
+      },
+      {
+        "name": "pineapple juice",
+        "quantity": 3.5
+      },
+      {
+        "name": "lemon juice",
+        "quantity": 2.0
+      },
+      {
+        "name": "grenadine",
+        "quantity": 1.0
+      },
+      {
+        "name": "sugar syrup",
+        "quantity": 1.0
+      },
+      {
+        "name": "angostura bitters",
+        "quantity": 0.21564031965
+      }
+    ],
+    "type": "Longdrink"
+  },
+  {
+    "name": "PORTO FLIP",
+    "ingredients": [
+      {
+        "name": "brandy",
+        "quantity": 1.5
+      },
+      {
+        "name": "red port",
+        "quantity": 4.5
+      },
+      {
+        "name": "egg yolk",
+        "quantity": 1.0
+      }
+    ],
+    "type": "After Dinner Cocktail"
+  },
+  {
+    "name": "RAMOS FIZZ",
+    "ingredients": [
+      {
+        "name": "gin",
+        "quantity": 4.5
+      },
+      {
+        "name": "lime juice",
+        "quantity": 1.5
+      },
+      {
+        "name": "lemon juice",
+        "quantity": 1.5
+      },
+      {
+        "name": "sugar syrup",
+        "quantity": 3.0
+      },
+      {
+        "name": "cream",
+        "quantity": 6.0
+      },
+      {
+        "name": "1 egg white",
+        "quantity": null
+      },
+      {
+        "name": "orange flower water",
+        "quantity": 0.1848345597
+      },
+      {
+        "name": "vanilla extract",
+        "quantity": 0.1232230398
+      },
+      {
+        "name": "soda water",
+        "quantity": null
+      }
+    ],
+    "type": "Longdrink"
+  },
+  {
+    "name": "RUSTY NAIL",
+    "ingredients": [
+      {
+        "name": "scotch whisky",
+        "quantity": 4.5
+      },
+      {
+        "name": "drambuie",
+        "quantity": 2.5
+      }
+    ],
+    "type": "After Dinner Cocktail"
+  },
+  {
+    "name": "SAZERAC",
+    "ingredients": [
+      {
+        "name": "cognac",
+        "quantity": 5.0
+      },
+      {
+        "name": "absinth",
+        "quantity": 1.0
+      },
+      {
+        "name": "1 sugar cube",
+        "quantity": null
+      },
+      {
+        "name": "peychaud’s bitters",
+        "quantity": 0.1232230398
+      }
+    ],
+    "type": "After Dinner Cocktail"
+  },
+  {
+    "name": "SCREWDRIVER",
+    "ingredients": [
+      {
+        "name": "vodka",
+        "quantity": 5.0
+      },
+      {
+        "name": "orange juice",
+        "quantity": 10.0
+      }
+    ],
+    "type": "All Day Cocktail"
+  },
+  {
+    "name": "SIDECAR",
+    "ingredients": [
+      {
+        "name": "cognac",
+        "quantity": 5.0
+      },
+      {
+        "name": "triple sec",
+        "quantity": 2.0
+      },
+      {
+        "name": "lemon juice",
+        "quantity": 2.0
+      }
+    ],
+    "type": "All Day Cocktail"
+  },
+  {
+    "name": "STINGER",
+    "ingredients": [
+      {
+        "name": "cognac",
+        "quantity": 5.0
+      },
+      {
+        "name": "creme de menthe",
+        "quantity": 2.0
+      }
+    ],
+    "type": "After Dinner Cocktail"
+  },
+  {
+    "name": "WHISKEY SOUR",
+    "ingredients": [
+      {
+        "name": "bourbon whiskey",
+        "quantity": 4.5
+      },
+      {
+        "name": "lemon juice",
+        "quantity": 3.0
+      },
+      {
+        "name": "sugar syrup",
+        "quantity": 1.5
+      }
+    ],
+    "type": "Before Dinner Cocktail"
+  },
+  {
+    "name": "WHITE LADY",
+    "ingredients": [
+      {
+        "name": "gin",
+        "quantity": 4.0
+      },
+      {
+        "name": "triple sec",
+        "quantity": 3.0
+      },
+      {
+        "name": "lemon juice",
+        "quantity": 2.0
+      }
+    ],
+    "type": "All Day Cocktail"
+  },
+  {
+    "name": "TUXEDO",
+    "ingredients": [
+      {
+        "name": "old tom gin",
+        "quantity": 3.0
+      },
+      {
+        "name": "dry vermouth",
+        "quantity": 3.0
+      },
+      {
+        "name": "maraschino",
+        "quantity": 0.25
+      },
+      {
+        "name": "absinth",
+        "quantity": 0.125
+      },
+      {
+        "name": "orange bitters",
+        "quantity": 0.1848345597
+      }
+    ],
+    "type": "All Day Cocktail"
+  },
+  {
+    "name": "BELLINI",
+    "ingredients": [
+      {
+        "name": "prosecco",
+        "quantity": 10.0
+      },
+      {
+        "name": "peach puree",
+        "quantity": 5.0
+      }
+    ],
+    "type": "Sparkling Cocktail"
+  },
+  {
+    "name": "BLACK RUSSIAN",
+    "ingredients": [
+      {
+        "name": "vodka",
+        "quantity": 5.0
+      },
+      {
+        "name": "coffee liqueur",
+        "quantity": 2.0
+      }
+    ],
+    "type": "After Dinner Cocktail"
+  },
+  {
+    "name": "BLOODY MARY",
+    "ingredients": [
+      {
+        "name": "vodka",
+        "quantity": 4.5
+      },
+      {
+        "name": "tomato juice",
+        "quantity": 9.0
+      },
+      {
+        "name": "lemon juice",
+        "quantity": 1.5
+      },
+      {
+        "name": "worcestershire sauce",
+        "quantity": 0.15402879975
+      },
+      {
+        "name": "tabasco",
+        "quantity": null
+      },
+      {
+        "name": "celery salt",
+        "quantity": null
+      },
+      {
+        "name": "pepper",
+        "quantity": null
+      }
+    ],
+    "type": "Longdrink"
+  },
+  {
+    "name": "CAIPIRINHA",
+    "ingredients": [
+      {
+        "name": "cachaca",
+        "quantity": 5.0
+      },
+      {
+        "name": "half  lime cut into 4 wedges",
+        "quantity": null
+      },
+      {
+        "name": "sugar",
+        "quantity": 0.985784318
+      }
+    ],
+    "type": "All Day Cocktail"
+  },
+  {
+    "name": "CHAMPAGNE COCKTAIL",
+    "ingredients": [
+      {
+        "name": "champagne",
+        "quantity": 9.0
+      },
+      {
+        "name": "cognac",
+        "quantity": 1.0
+      },
+      {
+        "name": "angostura bitters",
+        "quantity": 0.1232230398
+      },
+      {
+        "name": "1 sugar cube",
+        "quantity": null
+      }
+    ],
+    "type": "Sparkling Cocktail"
+  },
+  {
+    "name": "COSMOPOLITAN",
+    "ingredients": [
+      {
+        "name": "citron vodka",
+        "quantity": 4.0
+      },
+      {
+        "name": "cointreau",
+        "quantity": 1.5
+      },
+      {
+        "name": "lime juice",
+        "quantity": 1.5
+      },
+      {
+        "name": "cranberry juice",
+        "quantity": 3.0
+      }
+    ],
+    "type": "All Day Cocktail"
+  },
+  {
+    "name": "CUBA LIBRE",
+    "ingredients": [
+      {
+        "name": "white rum",
+        "quantity": 5.0
+      },
+      {
+        "name": "cola",
+        "quantity": 12.0
+      },
+      {
+        "name": "lime juice",
+        "quantity": 1.0
+      }
+    ],
+    "type": "Longdrink"
+  },
+  {
+    "name": "FRENCH CONNECTION",
+    "ingredients": [
+      {
+        "name": "cognac",
+        "quantity": 3.5
+      },
+      {
+        "name": "disaronno",
+        "quantity": 3.5
+      }
+    ],
+    "type": "After Dinner Cocktail"
+  },
+  {
+    "name": "GOD FATHER",
+    "ingredients": [
+      {
+        "name": "scotch",
+        "quantity": 3.5
+      },
+      {
+        "name": "disaronno",
+        "quantity": 3.5
+      }
+    ],
+    "type": "After Dinner Cocktail"
+  },
+  {
+    "name": "GOD MOTHER",
+    "ingredients": [
+      {
+        "name": "vodka",
+        "quantity": 3.5
+      },
+      {
+        "name": "disaronno",
+        "quantity": 3.5
+      }
+    ],
+    "type": "After Dinner Cocktail"
+  },
+  {
+    "name": "GOLDEN DREAM",
+    "ingredients": [
+      {
+        "name": "galliano",
+        "quantity": 2.0
+      },
+      {
+        "name": "triple sec",
+        "quantity": 2.0
+      },
+      {
+        "name": "orange juice",
+        "quantity": 2.0
+      },
+      {
+        "name": "cream",
+        "quantity": 1.0
+      }
+    ],
+    "type": "After Dinner Cocktail"
+  },
+  {
+    "name": "GRASSHOPPER",
+    "ingredients": [
+      {
+        "name": "creme de cacao",
+        "quantity": 3.0
+      },
+      {
+        "name": "creme de menthe",
+        "quantity": 3.0
+      },
+      {
+        "name": "cream",
+        "quantity": 3.0
+      }
+    ],
+    "type": "After Dinner Cocktail"
+  },
+  {
+    "name": "FRENCH 75",
+    "ingredients": [
+      {
+        "name": "gin",
+        "quantity": 3.0
+      },
+      {
+        "name": "lemon juice",
+        "quantity": 1.5
+      },
+      {
+        "name": "sugar syrup",
+        "quantity": 0.1232230398
+      },
+      {
+        "name": "champagne",
+        "quantity": 6.0
+      }
+    ],
+    "type": "Sparkling Cocktail"
+  },
+  {
+    "name": "HARVEY WALLBANGER",
+    "ingredients": [
+      {
+        "name": "vodka",
+        "quantity": 4.5
+      },
+      {
+        "name": "galliano",
+        "quantity": 1.5
+      },
+      {
+        "name": "orange juice",
+        "quantity": 9.0
+      }
+    ],
+    "type": "All Day Cocktail"
+  },
+  {
+    "name": "HEMINGWAY SPECIAL",
+    "ingredients": [
+      {
+        "name": "white rum",
+        "quantity": 6.0
+      },
+      {
+        "name": "grapefruit juice",
+        "quantity": 4.0
+      },
+      {
+        "name": "maraschino",
+        "quantity": 1.5
+      },
+      {
+        "name": "lime juice",
+        "quantity": 1.5
+      }
+    ],
+    "type": "All Day Cocktail"
+  },
+  {
+    "name": "HORSE’S NECK",
+    "ingredients": [
+      {
+        "name": "brandy",
+        "quantity": 4.0
+      },
+      {
+        "name": "ginger ale",
+        "quantity": 12.0
+      },
+      {
+        "name": "angostura bitters",
+        "quantity": 0.0616115199
+      }
+    ],
+    "type": "Longdrink"
+  },
+  {
+    "name": "IRISH COFFEE",
+    "ingredients": [
+      {
+        "name": "irish whiskey",
+        "quantity": 4.0
+      },
+      {
+        "name": "hot coffee",
+        "quantity": 9.0
+      },
+      {
+        "name": "cream",
+        "quantity": 3.0
+      },
+      {
+        "name": "brown sugar",
+        "quantity": 0.492892159
+      }
+    ],
+    "type": "Hot Drink"
+  },
+  {
+    "name": "KIR",
+    "ingredients": [
+      {
+        "name": "white wine",
+        "quantity": 9.0
+      },
+      {
+        "name": "creme de cassis",
+        "quantity": 1.0
+      }
+    ],
+    "type": "Before Dinner Cocktail"
+  },
+  {
+    "name": "LONG ISLAND ICED TEA",
+    "ingredients": [
+      {
+        "name": "tequila",
+        "quantity": 1.5
+      },
+      {
+        "name": "vodka",
+        "quantity": 1.5
+      },
+      {
+        "name": "white rum",
+        "quantity": 1.5
+      },
+      {
+        "name": "triple sec",
+        "quantity": 1.5
+      },
+      {
+        "name": "gin",
+        "quantity": 1.5
+      },
+      {
+        "name": "lemon juice,",
+        "quantity": 2.5
+      },
+      {
+        "name": "gomme syrup",
+        "quantity": 3.0
+      },
+      {
+        "name": "cola",
+        "quantity": 0.0616115199
+      }
+    ],
+    "type": "Longdrink"
+  },
+  {
+    "name": "MAI-TAI",
+    "ingredients": [
+      {
+        "name": "white rum",
+        "quantity": 4.0
+      },
+      {
+        "name": "dark rum",
+        "quantity": 2.0
+      },
+      {
+        "name": "orange curacao",
+        "quantity": 1.5
+      },
+      {
+        "name": "orgeat syrup",
+        "quantity": 1.5
+      },
+      {
+        "name": "lime juice",
+        "quantity": 1.0
+      }
+    ],
+    "type": "Longdrink"
+  },
+  {
+    "name": "MARGARITA",
+    "ingredients": [
+      {
+        "name": "tequila",
+        "quantity": 3.5
+      },
+      {
+        "name": "cointreau",
+        "quantity": 2.0
+      },
+      {
+        "name": "lime juice",
+        "quantity": 1.5
+      }
+    ],
+    "type": "All Day Cocktail"
+  },
+  {
+    "name": "MIMOSA",
+    "ingredients": [
+      {
+        "name": "champagne",
+        "quantity": 7.5
+      },
+      {
+        "name": "orange juice,",
+        "quantity": 7.5
+      }
+    ],
+    "type": "Sparkling Cocktail"
+  },
+  {
+    "name": "MOJITO",
+    "ingredients": [
+      {
+        "name": "white rum",
+        "quantity": 4.0
+      },
+      {
+        "name": "lime juice",
+        "quantity": 3.0
+      },
+      {
+        "name": "6 mint sprigs",
+        "quantity": null
+      },
+      {
+        "name": "sugar",
+        "quantity": 0.985784318
+      },
+      {
+        "name": "soda water",
+        "quantity": null
+      }
+    ],
+    "type": "Longdrink"
+  },
+  {
+    "name": "MOSCOW MULE",
+    "ingredients": [
+      {
+        "name": "vodka",
+        "quantity": 4.5
+      },
+      {
+        "name": "ginger beer",
+        "quantity": 12.0
+      },
+      {
+        "name": "lime juice,",
+        "quantity": 0.5
+      },
+      {
+        "name": "1 slice lime in a highball glass",
+        "quantity": null
+      }
+    ],
+    "type": "Longdrink"
+  },
+  {
+    "name": "MINT JULEP",
+    "ingredients": [
+      {
+        "name": "bourbon whiskey",
+        "quantity": 6.0
+      },
+      {
+        "name": "4  mint sprigs",
+        "quantity": null
+      },
+      {
+        "name": "sugar",
+        "quantity": 0.492892159
+      },
+      {
+        "name": "water",
+        "quantity": 0.985784318
+      }
+    ],
+    "type": "Longdrink"
+  },
+  {
+    "name": "PINA COLADA",
+    "ingredients": [
+      {
+        "name": "white rum",
+        "quantity": 3.0
+      },
+      {
+        "name": "pineapple juice",
+        "quantity": 9.0
+      },
+      {
+        "name": "coconut milk",
+        "quantity": 3.0
+      }
+    ],
+    "type": "Longdrink"
+  },
+  {
+    "name": "ROSE",
+    "ingredients": [
+      {
+        "name": "kirsch",
+        "quantity": 2.0
+      },
+      {
+        "name": "dry vermouth",
+        "quantity": 4.0
+      },
+      {
+        "name": "strawberry syrup",
+        "quantity": 0.1848345597
+      }
+    ],
+    "type": null
+  },
+  {
+    "name": "SEA BREEZE",
+    "ingredients": [
+      {
+        "name": "vodka",
+        "quantity": 4.0
+      },
+      {
+        "name": "cranberry juice",
+        "quantity": 12.0
+      },
+      {
+        "name": "grapefruit juice",
+        "quantity": 3.0
+      }
+    ],
+    "type": "Longdrink"
+  },
+  {
+    "name": "SEX ON THE BEACH",
+    "ingredients": [
+      {
+        "name": "vodka",
+        "quantity": 4.0
+      },
+      {
+        "name": "peach schnapps",
+        "quantity": 2.0
+      },
+      {
+        "name": "cranberry juice",
+        "quantity": 4.0
+      },
+      {
+        "name": "orange juice",
+        "quantity": 4.0
+      }
+    ],
+    "type": "Longdrink"
+  },
+  {
+    "name": "SINGAPORE SLING",
+    "ingredients": [
+      {
+        "name": "gin",
+        "quantity": 3.0
+      },
+      {
+        "name": "cherry liqueur",
+        "quantity": 1.5
+      },
+      {
+        "name": "cointreau",
+        "quantity": 0.75
+      },
+      {
+        "name": "dom benedictine",
+        "quantity": 0.75
+      },
+      {
+        "name": "pineapple juice",
+        "quantity": 12.0
+      },
+      {
+        "name": "lime juice",
+        "quantity": 1.5
+      },
+      {
+        "name": "grenadine",
+        "quantity": 1.0
+      },
+      {
+        "name": "angostura bitters",
+        "quantity": 0.0616115199
+      }
+    ],
+    "type": "Longdrink"
+  },
+  {
+    "name": "TEQUILA SUNRISE",
+    "ingredients": [
+      {
+        "name": "tequila",
+        "quantity": 4.5
+      },
+      {
+        "name": "orange juice",
+        "quantity": 9.0
+      },
+      {
+        "name": "grenadine",
+        "quantity": 1.5
+      }
+    ],
+    "type": "Longdrink"
+  },
+  {
+    "name": "BARRACUDA",
+    "ingredients": [
+      {
+        "name": "gold rum",
+        "quantity": 4.5
+      },
+      {
+        "name": "galliano",
+        "quantity": 1.5
+      },
+      {
+        "name": "pineapple juice",
+        "quantity": 6.0
+      },
+      {
+        "name": "lime juice",
+        "quantity": 0.0616115199
+      },
+      {
+        "name": "prosecco",
+        "quantity": 2.95735296
+      }
+    ],
+    "type": "Sparkling Cocktail"
+  },
+  {
+    "name": "BRAMBLE",
+    "ingredients": [
+      {
+        "name": "gin",
+        "quantity": 4.0
+      },
+      {
+        "name": "lemon juice",
+        "quantity": 1.5
+      },
+      {
+        "name": "sugar syrup",
+        "quantity": 1.0
+      },
+      {
+        "name": "blackberry liqueur",
+        "quantity": 1.5
+      }
+    ],
+    "type": "All Day Cocktail"
+  },
+  {
+    "name": "B52",
+    "ingredients": [
+      {
+        "name": "kahlua",
+        "quantity": 2.0
+      },
+      {
+        "name": "bailey's irish cream",
+        "quantity": 2.0
+      },
+      {
+        "name": "grand marnier",
+        "quantity": 2.0
+      }
+    ],
+    "type": "After Dinner"
+  },
+  {
+    "name": "DARK ‘N' STORMY",
+    "ingredients": [
+      {
+        "name": "dark rum",
+        "quantity": 6.0
+      },
+      {
+        "name": "ginger beer",
+        "quantity": 10.0
+      }
+    ],
+    "type": "Longdrink"
+  },
+  {
+    "name": "DIRTY MARTINI",
+    "ingredients": [
+      {
+        "name": "vodka",
+        "quantity": 6.0
+      },
+      {
+        "name": "dry vermouth",
+        "quantity": 1.0
+      },
+      {
+        "name": "olive juice",
+        "quantity": 1.0
+      }
+    ],
+    "type": "Before Dinner Cocktail"
+  },
+  {
+    "name": "ESPRESSO MARTINI",
+    "ingredients": [
+      {
+        "name": "vodka",
+        "quantity": 5.0
+      },
+      {
+        "name": "kahlua",
+        "quantity": 1.0
+      },
+      {
+        "name": "sugar syrup",
+        "quantity": null
+      },
+      {
+        "name": "espresso",
+        "quantity": 2.95735296
+      }
+    ],
+    "type": "After Dinner Cocktail"
+  },
+  {
+    "name": "FRENCH MARTINI",
+    "ingredients": [
+      {
+        "name": "vodka",
+        "quantity": 4.5
+      },
+      {
+        "name": "raspberry liqueur",
+        "quantity": 1.5
+      },
+      {
+        "name": "pineapple juice",
+        "quantity": 1.5
+      }
+    ],
+    "type": "Before Dinner Cocktail"
+  },
+  {
+    "name": "KAMIKAZE",
+    "ingredients": [
+      {
+        "name": "vodka",
+        "quantity": 3.0
+      },
+      {
+        "name": "triple sec",
+        "quantity": 3.0
+      },
+      {
+        "name": "lime juice",
+        "quantity": 3.0
+      }
+    ],
+    "type": "All Day Cocktail"
+  },
+  {
+    "name": "LEMON DROP MARTINI",
+    "ingredients": [
+      {
+        "name": "citron vodka",
+        "quantity": 2.5
+      },
+      {
+        "name": "triple sec",
+        "quantity": 2.0
+      },
+      {
+        "name": "lemon juice",
+        "quantity": 1.5
+      }
+    ],
+    "type": "All Day Cocktail"
+  },
+  {
+    "name": "PISCO SOUR",
+    "ingredients": [
+      {
+        "name": "pisco",
+        "quantity": 4.5
+      },
+      {
+        "name": "lemon juice",
+        "quantity": 3.0
+      },
+      {
+        "name": "sugar syrup",
+        "quantity": 2.0
+      },
+      {
+        "name": "1 raw egg white",
+        "quantity": null
+      }
+    ],
+    "type": "All Day Cocktail"
+  },
+  {
+    "name": "RUSSIAN SPRING PUNCH",
+    "ingredients": [
+      {
+        "name": "vodka",
+        "quantity": 2.5
+      },
+      {
+        "name": "lemon juice,",
+        "quantity": 2.5
+      },
+      {
+        "name": "creme de cassis",
+        "quantity": 1.5
+      },
+      {
+        "name": "sugar syrup",
+        "quantity": 1.0
+      }
+    ],
+    "type": "Sparkling Cocktail"
+  },
+  {
+    "name": "SPRITZ VENEZIANO",
+    "ingredients": [
+      {
+        "name": "prosecco",
+        "quantity": 6.0
+      },
+      {
+        "name": "aperol",
+        "quantity": 4.0
+      },
+      {
+        "name": "soda water",
+        "quantity": 0.739338239
+      }
+    ],
+    "type": "Sparkling Cocktail"
+  },
+  {
+    "name": "TOMMY’S MARGARITA",
+    "ingredients": [
+      {
+        "name": "tequila",
+        "quantity": 4.5
+      },
+      {
+        "name": "lime juice",
+        "quantity": 1.5
+      },
+      {
+        "name": "agave nectar",
+        "quantity": 1.0
+      }
+    ],
+    "type": "All Day Cocktail"
+  },
+  {
+    "name": "VAMPIRO ",
+    "ingredients": [
+      {
+        "name": "tequila",
+        "quantity": 5.0
+      },
+      {
+        "name": "tomato juice",
+        "quantity": 7.0
+      },
+      {
+        "name": "orange juice,",
+        "quantity": 3.0
+      },
+      {
+        "name": "lime juice,",
+        "quantity": 1.0
+      },
+      {
+        "name": "honey",
+        "quantity": 0.492892159
+      },
+      {
+        "name": "half slice onion finely chopped",
+        "quantity": null
+      },
+      {
+        "name": "few slices  red hot chili peppers",
+        "quantity": null
+      },
+      {
+        "name": "worchestershire sauce",
+        "quantity": 0.15402879975
+      },
+      {
+        "name": "salt",
+        "quantity": null
+      }
+    ],
+    "type": null
+  },
+  {
+    "name": "VESPER",
+    "ingredients": [
+      {
+        "name": "gin",
+        "quantity": 6.0
+      },
+      {
+        "name": "vodka",
+        "quantity": 1.5
+      },
+      {
+        "name": "lillet blonde",
+        "quantity": 0.75
+      },
+      {
+        "name": "lemon twist",
+        "quantity": null
+      }
+    ],
+    "type": "Before Dinner Cocktail "
+  },
+  {
+    "name": "YELLOW BIRD",
+    "ingredients": [
+      {
+        "name": "white rum",
+        "quantity": 3.0
+      },
+      {
+        "name": "galliano",
+        "quantity": 1.5
+      },
+      {
+        "name": "triple sec",
+        "quantity": 1.5
+      },
+      {
+        "name": "lime juice",
+        "quantity": 1.5
+      }
+    ],
+    "type": "All Day Cocktail"
+  }
+]
